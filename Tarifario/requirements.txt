@@ -1,0 +1,10 @@
+Collecting PyQT5
+  Using cached PyQt5-5.15.1-5.15.1-cp35.cp36.cp37.cp38.cp39-none-win_amd64.whl (59.4 MB)
+Requirement already satisfied: pip in d:\python\tarifario\myenv\lib\site-packages (20.2.1)
+Processing c:\users\kikin\appdata\local\pip\cache\wheels\84\c0\57\97515ad97d6e346c0d41dda16bb42892c4a0ac8006919aa82f\freeze-3.0-py3-none-any.whl
+Collecting PyQt5-sip<13,>=12.8
+  Using cached PyQt5_sip-12.8.1-cp37-cp37m-win_amd64.whl (62 kB)
+Collecting six
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Installing collected packages: PyQt5-sip, PyQT5, six, freeze
+Successfully installed PyQT5-5.15.1 PyQt5-sip-12.8.1 freeze-3.0 six-1.15.0
